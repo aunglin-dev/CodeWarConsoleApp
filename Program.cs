@@ -13,7 +13,11 @@ public class Program
 
         Console.WriteLine(MorseCodeDecoder.Decode(".... . -.--   .--- ..- -.. ."));
 
-  
+
+        Console.WriteLine("Unique In Order",Unique_In_Order.UniqueInOrderYield("AAAABBBCCDAnullABBB"));
+
+
+
     }
 
 }
