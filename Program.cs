@@ -18,6 +18,11 @@ public class Program
 
 
 
+        int[] smth = { 206847684, 1056521, 7, 17, 1901, 21104421, 7, 1, 35521, 1, 7781 };
+        Find_The_Parity_Outlier.Find(smth);
+
+
+
     }
 
 }
